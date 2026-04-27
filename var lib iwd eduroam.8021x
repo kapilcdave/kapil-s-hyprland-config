@@ -1,0 +1,9 @@
+[Security]
+EAP-Method=PEAP
+EAP-Identity=kapildave@berkeley.edu
+EAP-PEAP-Phase2-Method=MSCHAPV2
+EAP-PEAP-Phase2-Identity=kapildave@berkeley.edu
+EAP-PEAP-Phase2-Password=password
+
+[Settings]
+AutoConnect=true
