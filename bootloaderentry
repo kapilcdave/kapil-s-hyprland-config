@@ -1,0 +1,6 @@
+# Created by: archinstall
+# Created on: 2026-04-21_08-01-14
+title   Arch Linux (linux)
+linux   /vmlinuz-linux
+initrd  /initramfs-linux.img
+options root=PARTUUID=f9096616-5ed1-4145-9c9a-346875bfe37b zswap.enabled=0 rw rootfstype=ext4 pci=realloc i915.enable_psr=0 acpi_mask_gpe=0x42
